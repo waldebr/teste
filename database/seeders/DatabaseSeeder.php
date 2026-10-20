@@ -1,5 +1,7 @@
 <?php
 
+namespace Database\Seeders;
+
 use App\Models\Cliente;
 use App\Models\NotaFiscal;
 use App\Models\Produto;
